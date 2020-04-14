@@ -1,5 +1,6 @@
 # Flutter Notification Permissions
-Package to check for and ask for Notification Permissions on iOS and Android.
+Fork from [notification_permissions](https://pub.dev/packages/notification_permissions) Package to check for and ask for Notification Permissions on iOS and Android. 
+添加修改跳转权限通知的界面。
 
 ## Checking Notification Permission Status
 ```dart
